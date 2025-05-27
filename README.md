@@ -1,18 +1,41 @@
-<h1>Excel Project for Accenture Forage</h1>
+<h1>Google Sheets Project for Accenture (Forage)</h1>
 
  ### 
 
 <h2>Description</h2>
-
+Social Buzz, a rapidly growing social media and content creation platform, engaged the Accenture firm for a 3-month initial project to help them manage their massive big data environment, prepare for an upcoming IPO, and gain insights into content popularity. This job simulation allowed me to demonstrate my capabilities in analyzing content data to identify the top 5 most popular categories.
 <br />
 
+<h2>Where the Dataset Came From</h2>
+
+The dataset was provided from Social Buzz’s internal system. 
 
 <h2>Tools Used</h2>
 
-- <b>Microsoft Excel</b> 
 - <b>Google Sheets</b>
 
+<h2>Steps Taken</h2>
 
-<h2>Program walk-through:</h2>
+- Planned out what data tables and columns were important for my analysis
+- Prepared the dataset by merging necessary tables using VLOOKUP
+- Cleaned the dataset checking for duplicates, empty cells, and other inconsistencies
+   - I used the Data tab in google sheets to aid in data cleaning.
+   - I used conditional formating to find any "blanks" and remove them
+- Created a simple yet complete chart using Microsoft Excel's chart insert pivot table and insert chart capabilities to showcase to stakeholders the <b>Top 5 Most Popular Content Categories</b>
+- Delivered a presentation to relay my findings and conclusions to Social Buzz
+  
 
+<h2>Key Findings</h2>
 
+- The Top 5 Most Popular categories were:
+   - Animals
+   - Science
+   - Healthy Eating
+   - Technology
+   - Food
+
+<h2>Questions</h2>
+
+What is the retention rate of users interacting with top content categories?
+
+[My Google Sheets Project - Accenture](https://docs.google.com/spreadsheets/d/1Xqm1vNr41weuZdvTJCgig5_SIrxFqZ1SGtIcS3InElY/edit?usp=sharing)
