@@ -16,8 +16,9 @@ The dataset was provided from Social Buzz’s internal system. It consisted of 7
 
 <h2>Steps Taken</h2>
 
-- Planned out what data tables and columns were important for my analysis
-- Prepared the dataset by merging necessary tables using VLOOKUP
+- Planned out what columns were important for my analysis; removed unnecessary ones
+- Prepared the dataset by merging necessary columns into one comprehensive dataset using spreadsheet functions such as VLOOKUP
+  - Other spreadsheet functions I used were: SUMIF() and COUNTIF()
 - Cleaned the dataset checking for duplicates, empty cells, and other inconsistencies
    - I used the Data tab in google sheets to aid in data cleaning.
    - I used conditional formating to find any "blanks" and remove them
