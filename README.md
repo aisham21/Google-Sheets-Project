@@ -8,7 +8,7 @@ Social Buzz, a rapidly growing social media and content creation platform, engag
 
 <h2>Where the Dataset Came From</h2>
 
-The dataset was provided from Social Buzz’s internal system. 
+The dataset was provided from Social Buzz’s internal system. It consisted of 7 total datasets with each dataset having different columns and values. I was also provided a data model where the relationships between all of the data sets were established to help with merging. 
 
 <h2>Tools Used</h2>
 
