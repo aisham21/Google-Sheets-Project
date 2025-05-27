@@ -20,8 +20,8 @@ The dataset was provided from Social Buzz’s internal system. It consisted of 7
 - Prepared the dataset by merging necessary columns into one comprehensive dataset using spreadsheet functions such as VLOOKUP
   - Other spreadsheet functions I used were: SUMIF() and COUNTIF()
 - Cleaned the dataset checking for duplicates, empty cells, and other inconsistencies
-   - I used the Data tab in google sheets to aid in data cleaning.
-   - I used conditional formating to find any "blanks" and remove them
+   - I used the Data tab in google sheets to aid in data cleaning, such as when removing duplicates.
+   - I used filter function to find any "blanks" and remove them
 - Created a simple yet complete chart using Microsoft Excel's chart insert pivot table and insert chart capabilities to showcase to stakeholders the <b>Top 5 Most Popular Content Categories</b>
 - Delivered a presentation to relay my findings and conclusions to Social Buzz
   
