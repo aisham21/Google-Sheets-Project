@@ -1,4 +1,4 @@
-<h1>Google Sheets Project for Accenture (Forage)</h1>
+<h1>Microsoft Excel Project for Accenture (Forage)</h1>
 
  ### 
 
@@ -12,7 +12,7 @@ The dataset was provided from Social Buzz’s internal system. It consisted of 7
 
 <h2>Tools Used</h2>
 
-- <b>Google Sheets</b>
+- <b>Microsoft Excel</b>
 
 <h2>Steps Taken</h2>
 
